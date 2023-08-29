@@ -1,0 +1,10 @@
+.coasters__page {
+    max-width: 100vw;
+    text-align: center;
+}
+
+.coasters__container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
